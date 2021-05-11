@@ -15,9 +15,9 @@ Music Management Database consists of the following tables:
 -> Songs (Most popular songs by that artist)
 Worked on various basic DDL, DML commands, functions, procedures, triggers, cursors and exception handling.
 
-*There are total of four entities with their respective attributes.
-*Each entity (genre, artist, files, song) contains a primary key.
-*The entities artist, files and song are binded with genre entity with foreign keys.
-*There is one-to-many relationship available between genre, artist, song and files.
+->There are total of four entities with their respective attributes.
+->Each entity (genre, artist, files, song) contains a primary key.
+->The entities artist, files and song are binded with genre entity with foreign keys.
+->There is one-to-many relationship available between genre, artist, song and files.
 
 
